@@ -100,7 +100,7 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = '                「 IBNU OFFICIAL 🅥⁩  汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘IBNU-MD˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm2 = '˘IBNU-MD'
 global.wm3 = '⫹⫺ IBNU-MD '
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
