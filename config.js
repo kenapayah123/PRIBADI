@@ -60,14 +60,14 @@ global.psaweria = '081807254833' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
 global.nomorbot = '62818072548331' //Nomor Bot
-global.nomorown = '6281807254833' //Nomor Owner
+global.nomorown = '6288272480997' //Nomor Owner
 global.namebot = 'IBNU-MD' //Nama Bot
 global.nameown = 'IBNU OFFICIAL 🅥⁩ ' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281807254833', 'IBNU OFFICIAL 🅥⁩ 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6288272480997 ', 'IBNU OFFICIAL 🅥⁩ 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods =   ['6281807254833'] // Want some help?
