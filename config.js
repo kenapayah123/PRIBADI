@@ -59,15 +59,15 @@ global.ppulsa = '081807254833' //Nomor SimCard Yang Kamu Pake
 global.psaweria = '081807254833' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62818072548331' //Nomor Bot
-global.nomorown = '6288272480997' //Nomor Owner
+global.nomorbot = '6288272480997' //Nomor Bot
+global.nomorown = '6281807254833' //Nomor Owner
 global.namebot = 'IBNU-MD' //Nama Bot
 global.nameown = 'IBNU OFFICIAL 🅥⁩ ' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288272480997 ', 'IBNU OFFICIAL 🅥⁩ 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6281807254833 ', 'IBNU OFFICIAL 🅥⁩ 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods =   ['6281807254833'] // Want some help?
@@ -104,7 +104,7 @@ global.wm2 = '˘IBNU-MD'
 global.wm3 = '⫹⫺ IBNU-MD '
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
-global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = 'IBNU-MD'
 global.author = global.wm
 global.logo = 'https://ibb.co/17RY7x9'
 
